@@ -1,7 +1,7 @@
 #include <ctest.h>
 #include <../src/diskr.h>
 
-// Discriminant
+// Korni
 CTEST(Test_1_function, input_2_4_2_0)
 {
     float result = function(2,4,2,0);
