@@ -16,7 +16,7 @@ clean:
 	@echo "Cleaning files in build directory" 	
 	@rm -rf build/*.d build/*.o 
 	@echo "Cleaning binaries"
-	@rm -rf bin/exec.exe 
+	@rm -rf bin/KvadUr.exe 
 	@echo "All files have been cleaned."	
 
 -include build/*.d
